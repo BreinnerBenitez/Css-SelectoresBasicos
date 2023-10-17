@@ -1,5 +1,5 @@
 ###  SELECTORES BASICOS CON CSS PRACTICA INGRESA AL LINK DE LA PARTE DE ABAJO PARA OBSERVAR 
-[ CLICK AQUI PARA VISUALIZAR ](https://www.linkedin.com/in/breinner-benitez-02b1b925a/)
+[ CLICK AQUI PARA VISUALIZAR ](https://breinnerbenitez.github.io/Css-SelectoresBasicos/)
 ___
 
 ### 1 Parte del codigo en imagenes 
