@@ -6,8 +6,6 @@ ___
 
  ![imagencarpeta](img/1.JPG)
 
-
-
 ___
 
 ## 2 
